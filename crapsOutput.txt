@@ -1,0 +1,224 @@
+****************WELCOME TO CRAPS****************
+
+7 or 11 on first roll, WIN double your bet
+2, 3, or 12 on first roll, LOSE your bet
+7, before you make your point, LOSE your bet
+
+************************************************
+
+Current balance is: $1000
+
+
+
+Roll? (Y or N)  y
+Place your bet: $500
+Your pending balance is: $500
+
+
+You rolled a(n): 6
+
+Your point is: 6
+
+Continue rolling until you make your point
+If 7 is rolled before your point, you lose
+If you don't roll, you forfeit your bet!!!
+
+Roll? (Y or N)  y
+
+You rolled a(n): 3
+
+Roll? (Y or N)  y
+
+You rolled a(n): 10
+
+Roll? (Y or N)  y
+
+You rolled a(n): 10
+
+Roll? (Y or N)  y
+
+You rolled a(n): 9
+
+Roll? (Y or N)  y
+
+You rolled a(n): 9
+
+Roll? (Y or N)  y
+
+You rolled a(n): 7
+
+******You Lose!******
+Your new balance is: $500
+
+************************************************
+
+Roll? (Y or N)  y
+Place your bet: $250
+Your pending balance is: $250
+
+
+You rolled a(n): 3
+
+******You Lose!******
+Your new balance is: $250
+
+************************************************
+
+Roll? (Y or N)  y
+Place your bet: $100
+Your pending balance is: $150
+
+
+You rolled a(n): 4
+
+Your point is: 4
+
+Continue rolling until you make your point
+If 7 is rolled before your point, you lose
+If you don't roll, you forfeit your bet!!!
+
+Roll? (Y or N)  y
+
+You rolled a(n): 9
+
+Roll? (Y or N)  y
+
+You rolled a(n): 4
+
+******You Win!******
+You made your point
+
+Your new balance is: $450
+
+************************************************
+
+Roll? (Y or N)  y
+Place your bet: $100
+Your pending balance is: $350
+
+
+You rolled a(n): 9
+
+Your point is: 9
+
+Continue rolling until you make your point
+If 7 is rolled before your point, you lose
+If you don't roll, you forfeit your bet!!!
+
+Roll? (Y or N)  y
+
+You rolled a(n): 7
+
+******You Lose!******
+Your new balance is: $350
+
+************************************************
+
+Roll? (Y or N)  y
+Place your bet: $100
+Your pending balance is: $250
+
+
+You rolled a(n): 10
+
+Your point is: 10
+
+Continue rolling until you make your point
+If 7 is rolled before your point, you lose
+If you don't roll, you forfeit your bet!!!
+
+Roll? (Y or N)  y
+
+You rolled a(n): 3
+
+Roll? (Y or N)  y
+
+You rolled a(n): 7
+
+******You Lose!******
+Your new balance is: $250
+
+************************************************
+
+Roll? (Y or N)  y
+Place your bet: $100
+Your pending balance is: $150
+
+
+You rolled a(n): 9
+
+Your point is: 9
+
+Continue rolling until you make your point
+If 7 is rolled before your point, you lose
+If you don't roll, you forfeit your bet!!!
+
+Roll? (Y or N)  y
+
+You rolled a(n): 7
+
+******You Lose!******
+Your new balance is: $150
+
+************************************************
+
+Roll? (Y or N)  y
+Place your bet: $100
+Your pending balance is: $50
+
+
+You rolled a(n): 6
+
+Your point is: 6
+
+Continue rolling until you make your point
+If 7 is rolled before your point, you lose
+If you don't roll, you forfeit your bet!!!
+
+Roll? (Y or N)  y
+
+You rolled a(n): 12
+
+Roll? (Y or N)  y
+
+You rolled a(n): 4
+
+Roll? (Y or N)  y
+
+You rolled a(n): 9
+
+Roll? (Y or N)  y
+
+You rolled a(n): 6
+
+******You Win!******
+You made your point
+
+Your new balance is: $350
+
+************************************************
+
+Roll? (Y or N)  y
+Place your bet: $350
+Your pending balance is: $0
+
+
+You rolled a(n): 10
+
+Your point is: 10
+
+Continue rolling until you make your point
+If 7 is rolled before your point, you lose
+If you don't roll, you forfeit your bet!!!
+
+Roll? (Y or N)  y
+
+You rolled a(n): 12
+
+Roll? (Y or N)  n
+
+Thanks for trying!
+
+Your balance is: $0
+
+Press any key to continue . . .
